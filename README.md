@@ -9,3 +9,5 @@ This is an ongoing capstone project by Team Scipy. This is our final Capstone Pr
  - The traffic excel file contains the original data as it was obtained from Kaggle
  
  - The traffic_clean excel file is the cleaned file that was used for the data visualizations and which will be used for our dashboard creation
+ 
+ - The zisualizations.zip contains the screenshots/photos of the visualizations and can be used by the presentation team to design our presentation slides
