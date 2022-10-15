@@ -89,7 +89,7 @@ def main():
     DateTime = datestr + ' ' + timestr
     DateTime1 = pd.to_datetime(DateTime)
     junction = st.number_input(
-        'Insert a number', min_value=1, max_value=4, value=1, step=1, format='%d')
+        'Which Junction:', min_value=1, max_value=4, value=1, step=1, format='%d')
 
     prediction = predict_traffic(junction, DateTime)
 
