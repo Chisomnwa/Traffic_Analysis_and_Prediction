@@ -47,11 +47,11 @@ Because this project involves a time series analysis, more columns were engineer
 
 # Participation of Team Members for the Successful Completion of this Project
 
-Chisom Promise Nnamanai - Project Lead
+Chisom Promise Nnamani - Project Lead
 
 Pearse Jim - Assistant Project Lead
 
-Victoria Udoh - Assistant Project Lead
+Victoria Udoh - Query Analyst
 
 
 ## Exploratory Analysis Task Group (Active Members)
@@ -86,16 +86,12 @@ Babatunde Raji
 Zainab Muhammed
 
 
-## Presentation Slides Task Group (All Slides Perfectly Fit for the Presentation of the Project to Stakeholders)
-
-Pragati Thakur - Presentation Slide …
-
-Djardo Isaac - Presentation slide …
-
-Fidel Imaseun - Presentation slide 
+## Presentation/Presentation Slides Task Group (All Slides Perfectly Fit for the Presentation of the Project to Stakeholders)
 
 
-# Dashboard Design Task Group(Active Members)
+
+
+## Dashboard Design Task Group(Active Members)
 
 
 
