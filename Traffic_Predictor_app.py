@@ -11,7 +11,7 @@ from tqdm import tqdm
 import gc
 
 
-da = pd.read_csv('traffic_data_processed.csv')
+da = pd.read_csv('traffic_clean.csv')
 da = da.drop('ID', axis=1)
 useless_cols1 = ['Quartermedian_vehicles', 'day_of_weekmin_vehicles', 'Quartermax_vehicles', 'Quarter', 'Quartermin_vehicles', 'day_of_weekmedian_vehicles',
                  'Vehicles', 'Seconds', 'Junction']
