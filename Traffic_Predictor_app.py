@@ -249,27 +249,39 @@ def main():
         timestr = time2.strftime("%H:%M:%S")
         DateTime1 = datestr + ' ' + timestr
         #DateTime1 = pd.to_datetime(DateTime)
-    st.write('Real Time Forecasts')
-    junction = st.number_input(
-        'Choose Junction:', min_value=1, max_value=4, value=1, step=1, format='%d', key='ksu2@uNnyw1*2')
-    forecast_junc = pd.date_range(
-        start=DateTime, end=DateTime1, freq='H')
-    forecast_junc = pd.DataFrame({'DateTime': forecast_junc})
-    # if st.button('Forecast'):
+        st.write('Real Time Forecasts')
+        junction = st.number_input(
+            'Choose Junction:', min_value=1, max_value=4, value=1, step=1, format='%d', key='ksu2@uNnyw1*2')
+        forecast_junc = pd.date_range(
+            start=DateTime, end=DateTime1, freq='H')
+        forecast_junc = pd.DataFrame({'DateTime': forecast_junc})
+        # if st.button('Forecast'):
 
-    st.write('Real Time Forecast for Junction',
-             junction, 'from', DateTime, 'to', DateTime1)
-    forecast = predict_traffic(junction, forecast_junc['DateTime'])
-    forecast = pd.concat([forecast_junc, forecast], axis=1)
-    # st.write(forecast_junc)
-    fig = plt.figure(figsize=(20, 10))
-    sns.lineplot(
-        x='DateTime', y='Vehicle Number Predictions', data=forecast)
-    st.pyplot(fig)
+        st.write('Real Time Forecast for Junction',
+                 junction, 'from', DateTime, 'to', DateTime1)
+        forecast = predict_traffic(junction, forecast_junc['DateTime'])
+        forecast = pd.concat([forecast_junc, forecast], axis=1)
+        # st.write(forecast_junc)
 
-    st.text("Team Scipy")
-    st.text("Hamoye Premiere Project")
-    st.text("Built with Streamlit")
+        def convert_df(df):
+            # IMPORTANT: Cache the conversion to prevent computation on every rerun
+            return df.to_csv(index=False).encode("utf-8")
+
+        csv = convert_df(forecast)
+        st.download_button(
+            label="Download DateTime Range Predictions as CSV",
+            data=csv,
+            file_name="Traffic Predictions by DateTime Range.csv",
+            mime="text/csv",
+        )
+        fig = plt.figure(figsize=(20, 10))
+        sns.lineplot(
+            x='DateTime', y='Vehicle Number Predictions', data=forecast)
+        st.pyplot(fig)
+
+        st.text("Team Scipy")
+        st.text("Hamoye Premiere Project")
+        st.text("Built with Streamlit")
 
 
 if __name__ == '__main__':
