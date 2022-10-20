@@ -129,10 +129,18 @@ Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-
 
 # Instructions For Team
 
- - The Traffic_Prediction_EDA ipynb file is our main ipynb file that will be used for feature engineering/modelling and deployment
+ - The Traffic_Prediction_EDA ipynb file contains the data wrangling, analysis and visualization proceses.
  
- - The traffic excel file contains the original data as it was obtained from Kaggle
+ - Traffic Prediction Model ipynb file containing the feauture engineering and modeling processes.
  
- - The traffic_clean excel file is the cleaned file that was used for the data visualizations and which will be used for our dashboard creation
+ - The traffic excel file contains the original data as it was obtained from Kaggle.
  
- - The visualizations.zip contains the screenshots/photos of the visualizations and can be used by the presentation team to design our presentation slides
+ - The traffic_clean excel file is the cleaned file that was used for the data visualizations and dashboard design.
+ 
+ - The visualizations.zip contains the screenshots/photos of the visualizations used to design presentation slides.
+ 
+ - plk files contain the trained model for each of the junctions.
+ 
+ - trafic_predictor_app.py contains the app deployment code.
+ 
+ - Requirements.txt file contains the packages and libraries used for the project with their listed versions.
