@@ -86,24 +86,45 @@ Babatunde Raji
 Zainab Muhammed
 
 
-## Presentation/Presentation Slides Task Group (All Slides Perfectly Fit for the Presentation of the Project to Stakeholders)
+## Documentation/Presentation Slides Task Group (All Slides Perfectly Fit for the Presentation of the Project to Stakeholders)
 
-Not yet added
+Victoria Udoh - Project Documentation
+
+Pragati Thakur - Presentation slide 1
+
+Fidel Imaseun - Presentation slide 2
+
+Djardo Isaac - Presentation slide 3
+
+Okonkwo Bertram - Presenter
+
+Joshua Obikunle - Presenter
+
+Emekobong Udoh
+
+Odion Sonny-Egbeahie
 
 
 ## Dashboard Design Task Group(Active Members)
 
-Not yet added
+Chisom Promise
+
+Omotayo Waheed
 
 
 # Model Deployment
 
-He’s a link... to the deployed model. This model is used to predict the number of vehicles that will be at a particular junction at a particular date and at a particular point in time.
+He’s a [link](https://team-scipy-traffic-predictor-ap.streamlitapp.com/) to the deployed model. This model is used to predict the number of vehicles that will be at a particular junction at a particular date and at a particular point in time.
 
 
 # Dashboard Report
 
-Here's a link... to the dashboard report that we created at the end of this project. In these reports, we tried to visualize the insights derived from the analysis of the traffic data like which junction had the most vehicular movement at a particular time of the day, month and year.
+Here's a [link](https://bit.ly/Traffic-Data-Analysis-Dashboard-by-Team-SciPy) to the dashboard report that we created at the end of this project. In these reports, we tried to visualize the insights derived from the analysis of the traffic data like which junction had the most vehicular movement at a particular time of the day, month and year.
+
+
+# Presentation Slides
+
+Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-SciPy) to the presentation slides that we used used to present the process of the project and our finding to the judges and experts in the field.
 
 
 # Instructions For Team
