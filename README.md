@@ -90,11 +90,11 @@ Zainab Muhammed
 
 Victoria Udoh - Project Documentation
 
-Pragati Thakur - Presentation slide 1
+Pragati Thakur - Presentation slides (Main)
 
-Fidel Imaseun - Presentation slide 2
+Fidel Imaseun - Presentation slides 2
 
-Djardo Isaac - Presentation slide 3
+Djardo Isaac - Presentation slides 3
 
 Okonkwo Bertram - Presenter
 
@@ -124,7 +124,7 @@ Here's a [link](https://bit.ly/Traffic-Data-Analysis-Dashboard-by-Team-SciPy) to
 
 # Presentation Slides
 
-Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-SciPy) to the presentation slides that we used used to present the process of the project and our finding to the judges and experts in the field.
+Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-SciPy) to the main presentation slides that we used used to present the process of the project and our finding to the judges and experts in the field.
 
 
 # Instructions For Team
