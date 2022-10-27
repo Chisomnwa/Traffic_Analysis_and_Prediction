@@ -94,8 +94,6 @@ Pragati Thakur - Presentation slides (Main)
 
 Fidel Imaseun - Presentation slides 2
 
-Djardo Isaac - Presentation slides 3
-
 Okonkwo Bertram - Presenter
 
 Joshua Obikunle - Presenter
@@ -103,6 +101,8 @@ Joshua Obikunle - Presenter
 Emekobong Udoh
 
 Odion Sonny-Egbeahie
+
+Djardo Isaac
 
 
 ## Dashboard Design Task Group(Active Members)
@@ -132,6 +132,8 @@ Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-
  - The Traffic_Prediction_EDA ipynb file contains the data wrangling, analysis and visualization proceses.
  
  - Traffic Prediction Model ipynb file containing the feauture engineering and modeling processes.
+ 
+ - Traffic Prediction Documentation contains the description of the project process from data gathering to model deployment
  
  - The traffic excel file contains the original data as it was obtained from Kaggle.
  
