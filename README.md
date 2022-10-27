@@ -1,6 +1,6 @@
 # Traffic_Analysis_and_Prediction
 
-This is an ongoing capstone project by Team SciPy. This is our final Capstone Project in the Hamoye 2022 Summer Internship.
+This is a capstone project on Traffic Prediction by Team SciPy. This is our final Capstone Project in the Hamoye Data Science Summer 2022 Internship.
 
 
 # Introduction
