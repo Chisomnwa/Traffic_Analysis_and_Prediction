@@ -1,6 +1,6 @@
 # Traffic_Analysis_and_Prediction
 
-This is an ongoing capstone project by Team SciPy. This is our final Capstone Project in the Hamoye 2022 Summer Internship.
+This is a capstone project on Traffic Prediction by Team SciPy. This is our final Capstone Project in the Hamoye Data Science Summer 2022 Internship.
 
 
 # Introduction
@@ -90,9 +90,11 @@ Zainab Muhammed
 
 Victoria Udoh - Project Documentation
 
-Pragati Thakur - Presentation slides (Main)
+Pragati Thakur - Presentation Slides (Main)
 
-Fidel Imaseun - Presentation slides 2
+Fidel Imaseun - Presentation Slides 2
+
+Djardo Isaac - Prentation Slides 3
 
 Okonkwo Bertram - Presenter
 
@@ -101,8 +103,6 @@ Joshua Obikunle - Presenter
 Emekobong Udoh
 
 Odion Sonny-Egbeahie
-
-Djardo Isaac
 
 
 ## Dashboard Design Task Group(Active Members)
@@ -146,3 +146,5 @@ Here's a [link](https://bit.ly/Traffic-Data-Analysis-Slide-Presentation-by-Team-
  - trafic_predictor_app.py contains the app deployment code.
  
  - Requirements.txt file contains the packages and libraries used for the project with their listed versions.
+ 
+ - Presentation Slides are slides that all fit for presenting and communicating the processes and insights derived from the prject to experts and stakeholders.
